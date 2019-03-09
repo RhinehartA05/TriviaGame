@@ -1,0 +1,26 @@
+.brd {
+    border: 1px solid lightblue;
+}
+
+body {
+    background-image: url(../images/paper_fibers_@2X.png);
+    background-repeat: repeat;
+    min-height: 85vh;
+    padding-bottom: 100px;
+    
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+    color: #f8f8f3;
+}
+span {
+    font-size: 20px;
+}
+
+header {
+    background-color: #484848;
+}
+
+
